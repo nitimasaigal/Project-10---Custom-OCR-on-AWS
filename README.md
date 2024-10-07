@@ -26,6 +26,7 @@ The project is structured as follows:
 
 | |--yolov3_custom.cfg
 
+
 |--S3 Bucket (nitima-project10-bucket)
 
 | |--datasets
@@ -43,6 +44,7 @@ The project is structured as follows:
 | |--results
 
 | | |--results.csv
+
 
 |--README.md
 
